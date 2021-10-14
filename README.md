@@ -1,4 +1,4 @@
-<img src="example.svg" width="400" height="400" alt="css-in-readme">
+### Hey folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <i><code>I'm Aman Ahlawat, a cyber security fanatic pursuing bachelors in Information Technology from Delhi Technological University. I like to contribute to open source projects. Feel free to explore around my public repos and don't forget to follow if you like the content.</code></i>
 <!--
