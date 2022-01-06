@@ -13,6 +13,9 @@
 - 📫 How to reach me: ahlawataman3@gmail.com
 - ⚡ Fun fact: So much to explore in technology, you won't ever get bored 😉
 
+<br>
+<br>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahlawataman&show_icons=true&theme=gotham" alt="ahlawataman" />
 
 
