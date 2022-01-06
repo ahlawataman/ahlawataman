@@ -9,6 +9,7 @@
  <img align="right" src="giphy.webp" width="500" height="320">
 
 - 🔭 I’m currently working on automation scripting
+
 - 💬 Ask me about technology consultancy
 - 📫 How to reach me: ahlawataman3@gmail.com
 - ⚡ Fun fact: So much to explore in technology, you won't ever get bored 😉
