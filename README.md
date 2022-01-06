@@ -6,15 +6,12 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
  </p>
  
- <img align="right" src="giphy.webp" width="500" height="320">
+ <img align="right" src="giphy.webp" width="500" height="320"><br><br>
 
 - 🔭 I’m currently working on automation scripting
 - 💬 Ask me about technology consultancy
 - 📫 How to reach me: ahlawataman3@gmail.com
 - ⚡ Fun fact: So much to explore in technology, you won't ever get bored 😉
-
-<br>
-<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahlawataman&show_icons=true&theme=gotham" alt="ahlawataman" />
 
