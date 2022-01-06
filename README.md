@@ -7,6 +7,11 @@
 - 📫 How to reach me: ahlawataman3@gmail.com
 - ⚡ Fun fact: So much to explore in technology, you won't ever get bored 😉
 
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+ </p>
+
 <!--
 **ahlawataman/ahlawataman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
