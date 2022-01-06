@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on automation scripting
 - 💬 Ask me about technology consultancy
 - 📫 How to reach me: ahlawataman3@gmail.com
-- ⚡ Fun fact: So much to explore in technology, you won't ever get bored 😉
+- ⚡ Fun fact: So much to explore in technology, you won't ever get bored😉
 
 <!--
 **ahlawataman/ahlawataman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
